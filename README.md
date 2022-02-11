@@ -15,7 +15,7 @@ Staff can add bookings,add stock,save bill etc..
 ## Deployment
 You can use Visual Studio Code app. A server (wamp or xampp) is needed.Database file is added. 
 
-### Screenshots
+## Screenshots
 <img src="https://telegra.ph/file/0861b6cfe172d24840c00.png">
 <img src="https://telegra.ph/file/f04d9536eefde420dbbf2.jpg">
 <img src="https://telegra.ph/file/9dc59d37016b171b4968a.png">
